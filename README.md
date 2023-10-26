@@ -1,4 +1,3 @@
-# Bookmark
 - [git](https://github.com/HyungjunAn/keep)
 - [토들러 정리](la_toddler_basic.md)
 - [뉴스레터](https://mail.google.com/mail/u/0/#label/News+Letter)

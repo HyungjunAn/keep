@@ -11,7 +11,7 @@
 
 <details>
 <summary>교통 정보 더보기</summary>
-  
+
 ## 교통
 
 마곡나루 퇴근(급)
@@ -42,5 +42,14 @@ DP -> OS
 
 ## 라이브 아카데미 토들러 
 ### [기초 문장 만들기와 내용 확장](https://youtube.com/playlist?list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&si=TpEkuvuDadzCP7Ni)
-- 1번
+<details>
+<summary> 더보기 </summary>
+<code>
+  - 1번
 - 2번
+</code>
+[1번](https://www.naver.com)
+[2번](https://www.naver.com)
+  
+</details>
+

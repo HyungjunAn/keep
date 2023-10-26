@@ -8,10 +8,9 @@
 [예약]: https://mobile.woorisoa.co.kr/
 [서버 시간]: https://time.navyism.com/?host=https%3A%2F%2Fmobile.woorisoa.co.kr%2FMain
 
-## 교통
 <details>
-<summary>더보기</summary>
-
+<summary>교통 정보 더보기</summary>
+## 교통
 - 마곡나루 퇴근(급)
 ```
 1729 1737 1745 1753 1801 1809

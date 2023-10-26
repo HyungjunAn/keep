@@ -48,8 +48,9 @@ DP -> OS
   - 1번
 - 2번
 </code>
-[1번](https://www.naver.com)
-[2번](https://www.naver.com)
+  
+- [1번](https://www.naver.com)
+- [2번](https://www.naver.com)
   
 </details>
 

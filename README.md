@@ -1,5 +1,5 @@
 # bookmark
-bookmark
+[bookmark](test.md)
 
 # 라이브 아카데미 토들러
 

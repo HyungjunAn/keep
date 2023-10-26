@@ -1,5 +1,6 @@
 ## be 동사 친해지기
 - be 동사만의 의미는 없음
+
 ```
 I work almost 12 hours a day. + It's tough.
 
@@ -17,6 +18,7 @@ She doesn't eat (any) junk food.
 - 영어를 배우는 초기에는 인칭(3인칭 단수), 부정형을 바꿔가면서 연습한다.
 - 3인칭 단수의 s는 원어민이 실수로도 틀리지 않는다.
 - 다양한 조합을 만들어보는 것이 중요하다.
+
 ```
 He works +
 She studies + 

@@ -32,7 +32,7 @@
 1. [얼마나 오래 걸려요?](https://www.youtube.com/watch?v=_49xUFx5n4M&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=18&pp=iAQB)
 1. [할 때, 하기 전에, 하고 나서, 할 때까지](https://www.youtube.com/watch?v=dpN0FfT8k7o&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=19&pp=iAQB)
 1. [bored vs. boring](https://www.youtube.com/watch?v=tgAnPN_mf-k&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=20&pp=iAQB)
-1. [짜증나 - annoy[ed|ing], frustrat[ed|ing]](https://www.youtube.com/watch?v=Ks0qJXeTCcA&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=21&pp=iAQB)
+1. [짜증나 - annoyed, annoying, frustrated, frustrating](https://www.youtube.com/watch?v=Ks0qJXeTCcA&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=21&pp=iAQB)
 1. [할게 있다/없다/많다](https://www.youtube.com/watch?v=cHJpKhVnH-I&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=22&pp=iAQB)
 1. [- 예전엔 ~었는데 지금은 ~](https://www.youtube.com/watch?v=F8vUB75aD34&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=23&pp=iAQB)
 1. [spend #1](https://www.youtube.com/watch?v=yvWkEoHCdmE&list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&index=24&pp=iAQB)

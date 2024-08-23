@@ -2,6 +2,7 @@
 - 영어 노트: [기본](en/basic.md) / [일상](en/daily.md) / [문법](en/grammar.md)
 - 우아들([홈], [예약], [서버 시간])
 - [교통]
+- [임시](https://github.com/HyungjunAn/HyungjunAn.github.io/tree/main/_posts/cs)
 
 [홈]: http://www.woorisoa.co.kr/main.php
 [예약]: https://mobile.woorisoa.co.kr/

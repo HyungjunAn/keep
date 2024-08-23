@@ -1,3 +1,11 @@
+---
+layout: post
+title: Daily
+author: An Hyungjun
+categories: [EN]
+tags: [Daily]
+---
+
 ## 내가 ~하기로는...(검증필)
 내가 알기로는  
 -> As far as I know  

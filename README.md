@@ -1,12 +1,16 @@
+# Subject
+- [Computer Science](link/cs.md)
+- [English](link/en.md)
+- [ETC](link/etc.md)
+- [Korean](link/ko.md)
+
+# ETC
 - [git](https://github.com/HyungjunAn/keep) / [page](https://hyungjunan.github.io/keep/)
-- 영어 노트: [기본](/en/basic.md) / [일상](en/daily.md) / [문법](en/grammar.md)
 - 우아들([홈], [예약], [서버 시간])
-- [교통]
 
 [홈]: http://www.woorisoa.co.kr/main.php
 [예약]: https://mobile.woorisoa.co.kr/
 [서버 시간]: https://time.navyism.com/?host=https%3A%2F%2Fmobile.woorisoa.co.kr%2FMain
-[교통]: etc/traffic.md
 
 ## 토스
 

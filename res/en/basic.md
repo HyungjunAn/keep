@@ -1,3 +1,11 @@
+---
+layout: post
+title: Basic
+author: An Hyungjun
+categories: [EN]
+tags: [basic]
+---
+
 ## Non vs None
 - Non: means not when used as a prefix.
 - None: means zero, nothing when used as a noun. A good way to remember the difference is Non is only one letter different from Not.

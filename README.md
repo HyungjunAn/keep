@@ -12,20 +12,6 @@
 [예약]: https://mobile.woorisoa.co.kr/
 [서버 시간]: https://time.navyism.com/?host=https%3A%2F%2Fmobile.woorisoa.co.kr%2FMain
 
-## 토스
-
-### [플랜](https://www.youtube.com/watch?v=x6a8X6mWAoU&list=PL8-zrEeeBrpMpOEXI_YKr2yDpqdKowEER&index=2)
-1. [PART 1 빈출 단어 쉐도잉 영상](https://www.youtube.com/watch?v=5iG99SwLrhc&t=0s)
-1. [PART 2 영상하나로 끝내는파트2 무료강의](https://www.youtube.com/watch?v=FC1xOMQLvtQ&t=0s)
-1. [PART 2 빈출 표현 쉐도잉 영상](https://www.youtube.com/watch?v=nIup6_Xe7Xo&t=0s)
-1. [PART 3 만점 비법 영상](https://www.youtube.com/watch?v=wWzNGMnOYSI&t=0s)
-1. [PART 3 영상 하나로 끝내는 파트3 무료강의](https://www.youtube.com/watch?v=dlQ95wyC5kc&t=0s)
-1. [PART 3 (만능문장 50)](https://www.youtube.com/watch?v=tdGCKI48Sjk&t=0s)
-1. [PART 4 영상하나로 끝내는 파트4 무료강의](https://www.youtube.com/watch?v=QYgfYk9Ysys&t=0s)
-1. [PART 4 만능 템플릿](https://www.youtube.com/watch?v=bJ85SwmYm3Y&t=0s)
-1. [PART 5 영상하나로 끝내는 파트5 무료강의](https://www.youtube.com/watch?v=xgJuKIZQbeo&t=0s)
-1. [PART 5 만능 문장](https://www.youtube.com/watch?v=P43wDlScjIs&t=0s)
-
 ## 라이브 아카데미 토들러 
 
 ### [기초 문장 만들기와 내용 확장](https://youtube.com/playlist?list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh&si=TpEkuvuDadzCP7Ni)

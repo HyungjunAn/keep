@@ -57,9 +57,7 @@ for k, v in myDic.items():
     
     printDic[target].append(f'{prefix} {os.path.basename(k)}')
     
-    prefix = ''
-    for i in range(depth - 1):
-        prefix += '../'
+    prefix = '../'    
     
     for md in v:
         path = f'{k}/{md}'

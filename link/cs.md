@@ -14,10 +14,10 @@
 - [x86-64 Assembly](../res/cs/2023-06-29-assembly.md)
 - [gdb](../res/cs/2023-07-07-gdb.md)
 ## docker
-- [Docker 기초](../../res/cs/docker/2022-04-26-docker.md)
-- [Dockerfile 작성법](../../res/cs/docker/2022-04-28-docker-dockerfile.md)
+- [Docker 기초](../res/cs/docker/2022-04-26-docker.md)
+- [Dockerfile 작성법](../res/cs/docker/2022-04-28-docker-dockerfile.md)
 ## jekyll
-- [Jekyll(1) - Jekyll 설치 및 실행](../../res/cs/jekyll/2021-10-19-jekyll_tutorial.md)
+- [Jekyll(1) - Jekyll 설치 및 실행](../res/cs/jekyll/2021-10-19-jekyll_tutorial.md)
 ## setting
-- [환경 세팅 - vs code](../../res/cs/setting/2022-03-30-vscode.md)
-- [환경 세팅 - windows](../../res/cs/setting/2022-03-30-windows.md)
+- [환경 세팅 - vs code](../res/cs/setting/2022-03-30-vscode.md)
+- [환경 세팅 - windows](../res/cs/setting/2022-03-30-windows.md)

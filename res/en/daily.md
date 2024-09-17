@@ -6,24 +6,12 @@ categories: [EN]
 tags: [Daily]
 ---
 
-## 내가 ~하기로는...(검증필)
-내가 알기로는  
--> As far as I know  
--> As far as I understand  
--> Based on what I know (조금 더 격식)  
--> According to what I know (조금 더 격식)  
--> To my knowledge(조금 더 격식)
 
-내가 듣기로는  
--> From what I hear (현재형의 느낌)  
--> From what I heard (과거의 이야기를 할 때)  
--> From what I've heard
+```
+I want to rent a bike
+I'd like to rent a bike(공손)
 
-내가 보기에는(나의 판단)  
--> The way I see it  
--> As far as I can tell (판단의 의미)  
 
-----
 
 일정을 촉박하게 줘서 미안
 -> I'm sorry I gave you a tight deadline.  
@@ -68,3 +56,4 @@ Can I give it back to U?
 
 그는 분위기 맞추는 정도만 마셔  
 -> He is a social drinker
+```

@@ -6,6 +6,23 @@ categories: [EN]
 tags: [basic]
 ---
 
+## 내가 ~하기로는...(검증필)
+내가 알기로는  
+-> As far as I know  
+-> As far as I understand  
+-> Based on what I know (조금 더 격식)  
+-> According to what I know (조금 더 격식)  
+-> To my knowledge(조금 더 격식)
+
+내가 듣기로는  
+-> From what I hear (현재형의 느낌)  
+-> From what I heard (과거의 이야기를 할 때)  
+-> From what I've heard
+
+내가 보기에는(나의 판단)  
+-> The way I see it  
+-> As far as I can tell (판단의 의미)  
+
 ## 시간(돈)이 걸리다(들다)
 많이 쓰는 동사
 - 시간이 걸리다: take

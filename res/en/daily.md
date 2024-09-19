@@ -7,13 +7,12 @@ tags: [Daily]
 ---
 
 
-```
-I want to rent a bike
-I'd like to rent a bike(공손)
+I want to rent a bike  
+I'd like to rent a bike(공손)  
 
 
 
-일정을 촉박하게 줘서 미안
+일정을 촉박하게 줘서 미안  
 -> I'm sorry I gave you a tight deadline.  
 
 I'm sorry for late response.
@@ -21,7 +20,7 @@ I'm sorry for late response.
 귀찮게 해서 미안하다. / 방해해서 미안하다.  
 -> I'm sorry to bother you.
 
-쪼아서 미안
+쪼아서 미안  
 -> I'm sorry to rush you.
 
 I understand ~~ need to check which complies standard.
@@ -30,10 +29,10 @@ Could you give me ~~ that I gave you?
 
 Can I give it back to U?
 
-현재 진행 상황좀 알려줄래?
+현재 진행 상황좀 알려줄래?  
 -> Can I check the current status of this?  
 
-업데이트된 내용 있을까?
+업데이트된 내용 있을까?  
 -> Is there any update on this?
 
 답변합니다. 그건~  

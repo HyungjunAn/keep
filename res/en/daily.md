@@ -10,8 +10,6 @@ tags: [Daily]
 I want to rent a bike  
 I'd like to rent a bike(공손)  
 
-
-
 일정을 촉박하게 줘서 미안  
 -> I'm sorry I gave you a tight deadline.  
 
@@ -55,4 +53,3 @@ Can I give it back to U?
 
 그는 분위기 맞추는 정도만 마셔  
 -> He is a social drinker
-```

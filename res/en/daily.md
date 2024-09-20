@@ -7,6 +7,8 @@ tags: [Daily]
 ---
 
 
+Which of the following sentences is grammatically correct?  
+
 I want to rent a bike  
 I'd like to rent a bike(공손)  
 

@@ -13,6 +13,7 @@
 - [Deep Learning 기초](../res/cs/2022-05-16-ml-deep-learning.md)
 - [x86-64 Assembly](../res/cs/2023-06-29-assembly.md)
 - [gdb](../res/cs/2023-07-07-gdb.md)
+- [각종 컴퓨터 꿀팁](../res/cs/2024-09-24-tips.md)
 ## docker
 - [Docker 기초](../res/cs/docker/2022-04-26-docker.md)
 - [Dockerfile 작성법](../res/cs/docker/2022-04-28-docker-dockerfile.md)

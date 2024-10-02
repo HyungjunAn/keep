@@ -7,6 +7,18 @@ tags: [Daily]
 ---
 
 
+나도 그러고 싶어
+-> I wish I could
+
+내가 곧 가져갈게
+-> I will take it right away
+
+He is on the phone
+
+tomorrow
+
+The title has the notation 'ABC'
+
 Which of the following sentences is grammatically correct?  
 
 I want to rent a bike  

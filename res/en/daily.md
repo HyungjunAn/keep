@@ -6,6 +6,18 @@ categories: [EN]
 tags: [Daily]
 ---
 
+~할 수 밖에 없었다  
+-> I had no choice but to ~
+
+이 부분에서 확인할 수 있어  
+-> you can see it here
+
+나는 니가 경험을 통해 더 배웠으면 좋겠어  
+-> I expect you to learn more through experience.
+
+내일은 안 돼 나 휴가야.  
+-> I can't tomorrow because I'm on vacation.
+
 GOAT(Greatest Of All Time)
 
 나도 그러고 싶어

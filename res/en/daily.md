@@ -6,6 +6,7 @@ categories: [EN]
 tags: [Daily]
 ---
 
+GOAT(Greatest Of All Time)
 
 Which of the following sentences is grammatically correct?  
 

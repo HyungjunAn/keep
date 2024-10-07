@@ -6,6 +6,14 @@ categories: [EN]
 tags: [basic]
 ---
 
+## 우리는 동사 중심 영어는 명사 중심
+너는 노래를 잘한다
+-> You are a good singer
+
+그는 분위기 맞출 정도로 술을 먹는다
+-> He is ad social drinker
+
+
 ## 내가 ~하기로는...(검증필)
 내가 알기로는  
 -> As far as I know  

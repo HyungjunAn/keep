@@ -6,6 +6,8 @@ categories: [EN]
 tags: [Daily]
 ---
 
+four out of ten
+
 Additionally, we need to review the budget before finalizing the project.
 
 We need to finish the report. Also, we have a meeting scheduled for 3 PM.

@@ -6,6 +6,12 @@ categories: [EN]
 tags: [Daily]
 ---
 
+Additionally, we need to review the budget before finalizing the project.
+
+We need to finish the report. Also, we have a meeting scheduled for 3 PM.
+
+Is this sentence phrased correctly, or does it sound awkward?
+
 ~할 수 밖에 없었다  
 -> I had no choice but to ~
 

@@ -6,10 +6,10 @@ categories: [EN]
 tags: [Daily]
 ---
 
-It seems that taking the bus is better than driving.
+It seems that taking the bus is better than driving.  
 Maybe going tomorrow would be better.
 
-She is preparing for her final exams.
+She is preparing for her final exams.  
 I am ready to leave for the airport.
 
 four out of ten

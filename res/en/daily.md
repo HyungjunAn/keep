@@ -6,6 +6,10 @@ categories: [EN]
 tags: [Daily]
 ---
 
+I can (instantly) tell (that) a lot of effort was put into it.
+
+Why do you do it that way?
+
 It seems that taking the bus is better than driving.
 Maybe going tomorrow would be better.
 

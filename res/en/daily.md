@@ -6,14 +6,18 @@ categories: [EN]
 tags: [Daily]
 ---
 
+<<<<<<< HEAD
 I can (instantly) tell (that) a lot of effort was put into it.
 
 Why do you do it that way?
 
 It seems that taking the bus is better than driving.
+=======
+It seems that taking the bus is better than driving.  
+>>>>>>> e3e1af33fdab223284fb3ede901af1ae37d0780b
 Maybe going tomorrow would be better.
 
-She is preparing for her final exams.
+She is preparing for her final exams.  
 I am ready to leave for the airport.
 
 four out of ten

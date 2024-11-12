@@ -6,6 +6,26 @@ categories: [EN]
 tags: [Daily]
 ---
 
+Brushing carelessly is the same as not brushing.
+
+Is it true that ~?  
+Is ~ correct?  
+Is ~ right?  
+
+I think that A is related to B.  
+It seems to me that A is related to B.  
+
+I will wait here until you arrive.  
+Please submit the report by Friday.
+
+work out
+
+I should cut down on drinking and get in shape.
+
+My car is located across from the bus stop.  
+
+there is nothing wrong with it.  
+
 It seems that taking the bus is better than driving.  
 Maybe going tomorrow would be better.
 

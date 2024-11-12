@@ -5,6 +5,37 @@ author: An Hyungjun
 categories: [EN]
 tags: [Daily]
 ---
+Let me answer.
+
+Just in case, let's compare it with the previous version.
+
+The reproduction frequency is less than 2 percent.
+
+Is this what you want?
+
+Take care~
+
+Keep up the good work.
+
+I don't remember because it was too long ago.
+
+Let me explain to you.
+
+I am in charge of kernel.
+
+We reviewed the CCTV footage.
+
+Please update me on the progress.
+
+When do you think it will be completed?
+
+Unlike the previous issue, this one is due to the kernel.
+
+Now we just have to wait.
+
+I can (instantly) tell (that) a lot of effort was put into it.
+
+Why do you do it that way?
 
 Brushing carelessly is the same as not brushing.
 
